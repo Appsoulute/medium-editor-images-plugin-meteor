@@ -1,0 +1,9 @@
+{
+  "name": "medium-editor-images-plugin",
+  "description": "This plugin expands capabilities of MediumEditor which is a clone of medium.com WYSIWYG editor.",
+  "homepage": "https://github.com/appsoulute/medium-editor-images-plugin-meteor",
+  "author": "spectrum <spectrick@gmail.com>",
+  "version": "1.0.0",
+  "git": "https://github.com/appsoulute/medium-editor-images-plugin-meteor.git",
+  "packages": {}
+}
