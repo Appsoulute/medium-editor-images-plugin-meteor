@@ -1,0 +1,3 @@
+[submodule "medium-editor-images-plugin"]
+	path = medium-editor-images-plugin
+	url = https://github.com/acidsound/medium-editor-images-plugin.git

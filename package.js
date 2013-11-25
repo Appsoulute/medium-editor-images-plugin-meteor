@@ -11,5 +11,8 @@ Package.on_use(function (api) {
     'medium-editor-images-plugin/src/medium-editor-images-plugin/js/jquery-1.10.2.min.js',
     'medium-editor-images-plugin/src/medium-editor-images-plugin/css/medium-editor-images-plugin.css',
     'medium-editor-images-plugin/src/medium-editor-images-plugin/js/medium-editor-images-plugin.js',
+    'clientWrapper.js'
   ], 'client');
+  api.export('MediumEditor');
+
 });
