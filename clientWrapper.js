@@ -2,4 +2,3 @@
 if (typeof Package !== "undefined") {
   this.MediumEditor = MediumEditor;
 }
-Meteor._debug("client wrapper");
