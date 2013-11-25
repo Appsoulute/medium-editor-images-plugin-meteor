@@ -10,6 +10,9 @@ Package.on_use(function (api) {
     'medium-editor-images-plugin/src/medium-editor/css/medium-editor.css',
     'medium-editor-images-plugin/src/medium-editor/js/medium-editor.js',
     'medium-editor-images-plugin/src/medium-editor-images-plugin/js/jquery-1.10.2.min.js',
+    'medium-editor-images-plugin/src/medium-editor-images-plugin/images/remove.png',
+    'medium-editor-images-plugin/src/medium-editor-images-plugin/images/resize-bigger.png',
+    'medium-editor-images-plugin/src/medium-editor-images-plugin/images/resize-smaller.png',
     'medium-editor-images-plugin/src/medium-editor-images-plugin/css/medium-editor-images-plugin.css',
     'medium-editor-images-plugin/src/medium-editor-images-plugin/js/medium-editor-images-plugin.js',
     'clientWrapper.js'
