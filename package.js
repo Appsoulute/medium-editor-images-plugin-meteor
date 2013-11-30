@@ -5,6 +5,7 @@ Package.describe({
  git submodule add https://github.com/acidsound/medium-editor-images-plugin.git medium-editor-images-plugin
  */
 Package.on_use(function (api) {
+  api.use('jquery', 'client');
   api.add_files([
     'medium-editor-images-plugin/src/medium-editor/css/medium-editor.css',
     'medium-editor-images-plugin/src/medium-editor/js/medium-editor.js',
